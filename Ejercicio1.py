@@ -1,0 +1,2 @@
+minombre = 'Nico'
+print (minombre)
