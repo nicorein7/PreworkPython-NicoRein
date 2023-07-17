@@ -1,2 +1,0 @@
-minombre = 'Nico'
-print (minombre)
